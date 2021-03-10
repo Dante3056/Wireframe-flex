@@ -11,7 +11,7 @@ body {
 /*Section Head*/
 .container-head {
   height: 400px;
-  background-image: url(img/cabecera.jpg);
+  background-image: url(../img/cabecera.jpg);
   background-position: 50% 55%;
   padding: 30px;
   display: flex;
@@ -109,12 +109,12 @@ body {
 }
 .box-md-3 {
   width: 65%;
-  background-image: url(img/japanese-umbrellas-636870_1280.jpg);
+  background-image: url(../img/japanese-umbrellas-636870_1280.jpg);
   background-position: center;
 }
 .box-md-4 {
   width: 33%;
-  background-image: url(img/food-3581341_640.jpg);
+  background-image: url(../img/food-3581341_640.jpg);
   background-position: center;
 }
 .section-title {
